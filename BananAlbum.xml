@@ -1,0 +1,103 @@
+<BananAlbum version="v5.1.3" generator="JAlbum 7.4" quality="best">
+
+<comment>    PLEASE OPEN INDEX.HTML TO VIEW ALBUM    </comment>
+
+<label><![CDATA[Marriage]]></label>
+
+<respath><![CDATA[res/]]></respath>
+<dirpath>Marriage/</dirpath>
+
+<bgcolor>#eeeeee</bgcolor>
+<linecolor>#000000</linecolor>
+<imgcolor transparency="100">#ffffff</imgcolor>
+<txtcolor>#000000</txtcolor>
+<labels typeface="" x="" y="">true</labels>
+<dateaslabel>false</dateaslabel>
+<dateinlabel>false</dateinlabel>
+
+<thumbs width="68" height="68" crop="false" margin="16" spacing="$thumbSpacing" hide="false" automove="true" center="true" scrollbar="true" style="default" active="default">true</thumbs>
+
+<images  x="" minx="" y="" w="" h="" outline="true" autoscale="true" preload="true"/>
+<transition fade="true">default</transition>
+
+<comments x="" y="" w="" h="" typeface="" external="false">true</comments>
+<addinfo>false</addinfo>
+<download link="" target="">false</download>
+<supersize>false</supersize>
+
+<margin>14</margin>
+<leftmargin></leftmargin>
+
+<logo x="" y="" h="" bg="" link="" target="_self"></logo>
+<bg tile="false"></bg>
+
+<bananatree bg="false" transparency="100" active="#444444" prefix="[" suffix="]" collapse="true" y="" loadfirstifempty="true">true</bananatree>
+<slideshow interval="4" x="" y="" big="false" autostart="false" txt="play slideshow, pause slideshow">false</slideshow>
+<donut line="" fill="" transparency=""/>
+<back target="_top"></back>
+
+<rightmouse fullscreen="true" download="false"/>
+
+
+
+
+
+
+
+
+
+<branch>
+<label><![CDATA[Engagement]]></label>
+<link>Engagement/BananAlbum.xml</link>
+</branch>
+
+
+
+
+
+
+
+
+
+
+
+<branch>
+<label><![CDATA[Lamha Phere (Hindu wedding)]]></label>
+<link>Lamha Phere (Hindu wedding)/BananAlbum.xml</link>
+</branch>
+
+
+
+
+
+
+
+
+
+
+
+<branch>
+<label><![CDATA[Anand Karj (Sikh wedding)]]></label>
+<link>Anand Karj (Sikh wedding)/BananAlbum.xml</link>
+</branch>
+
+
+
+
+
+
+
+
+
+
+
+<branch>
+<label><![CDATA[Reception]]></label>
+<link>Reception/BananAlbum.xml</link>
+</branch>
+
+
+
+
+
+</BananAlbum>
